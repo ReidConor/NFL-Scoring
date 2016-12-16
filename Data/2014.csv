@@ -1,0 +1,33 @@
+,Team,State,Total.TD,Rushing.TD,Passing.TD,Kickoff.Return,Punt.Return,Interception.Return,Fumble.Return,Blocked.FG.Return,Blocked.P.Return,FG.Miss.Return,Safeties,Total.Points,Latitude,Longitude,Points.after.TD.Rate,FG.Rate,Pen.Commited,Pen.Received,Pen.Yard.Diff,Turnover.Diff
+1,Arizona Cardinals,"Arizona, United States",32,6,21,0,1,3,1,0,0,0,0,310,34.0489281,-111.0937311,1,0.878787879,91,130,485,8
+2,Atlanta Falcons,"Atlanta, Georgia, United States",42,11,28,0,1,1,1,0,0,0,0,381,33.7489954,-84.3879824,1,0.90625,97,91,-96,5
+3,Baltimore Ravens,"Baltimore, Maryland, United States",46,16,27,1,0,1,0,0,1,0,1,409,39.2903848,-76.6121893,1,0.852941176,111,110,137,2
+4,Buffalo Bills,"Buffalo, New York, United States",34,7,23,1,1,0,1,0,1,0,1,343,42.8864468,-78.8783689,0.96875,0.894736842,124,104,-182,7
+5,Carolina Panthers,"Charlotte, North Carolina, United States",36,10,23,0,1,2,0,0,0,0,0,339,35.2270869,-80.8431267,1,0.828571429,83,97,4,3
+6,Chicago Bears,"Chicago, Illinois, United States",40,8,30,1,0,1,0,0,0,0,0,319,41.8781136,-87.6297982,0.942857143,0.75,113,106,-19,-5
+7,Cincinnati Bengals,"Cincinnati, Ohio, United States",40,19,20,0,0,1,0,0,0,0,3,365,39.1031182,-84.5120196,1,0.787878788,102,105,64,0
+8,Cleveland Browns,"Cleveland, Ohio, United States",32,17,12,0,0,2,1,0,0,0,1,299,41.49932,-81.6943605,1,0.78125,116,98,-163,6
+9,Dallas Cowboys,"Dallas, Texas, United States",56,16,37,0,0,2,1,0,0,0,0,467,32.7766642,-96.7969879,1,0.862068966,105,104,22,6
+10,Denver Broncos,"Denver, Colorado, United States",58,15,40,0,0,2,1,0,0,0,1,482,39.7392358,-104.990251,1,0.827586207,120,103,-229,5
+11,Detroit Lions,"Detroit, Michigan, United States",35,11,22,0,0,1,1,0,0,0,1,321,42.331427,-83.0457538,1,0.657894737,118,99,-140,7
+12,Green Bay Packers,"Green Bay, Wisconsin, United States",58,14,38,0,2,3,1,0,0,0,1,486,44.519159,-88.019826,0.963636364,0.818181818,92,104,170,14
+13,Houston Texans,"Houstan, Texas, United States",40,12,22,0,0,4,1,0,1,0,1,372,29.7604267,-95.3698028,1,0.857142857,94,99,-48,12
+14,Indianapolis Colts,"Indianapolis, Indiana, United States",53,9,42,0,0,1,1,0,0,0,0,458,39.768403,-86.158068,1,0.967741935,105,101,18,-5
+15,Jacksonville Jaguars,"Jacksonville, Florida, United States",27,9,15,0,0,1,2,0,0,0,1,249,30.3321838,-81.655651,1,0.769230769,73,115,313,-6
+16,Kansas City Chiefs,"Kansas City, Kansas, United States",40,18,18,1,1,1,1,0,0,0,0,353,39.114053,-94.6274636,1,0.833333333,88,107,170,-3
+17,Miami Dolphins,"Miami, Florida, United States",42,12,27,0,0,2,1,0,0,0,3,388,25.7616798,-80.1917902,1,0.783783784,81,105,280,2
+18,Minnesota Vikings,"Minneapolis, Minnesota, United States",35,12,17,0,0,2,2,0,2,0,0,325,44.977753,-93.2650108,1,0.742857143,100,112,102,-1
+19,New England Patriots,"Boston, Massachusetts, United States",52,13,34,0,1,0,2,2,0,0,0,468,42.3600825,-71.0588801,1,0.945945946,120,92,-328,12
+20,New Orleans Saints,"New Orleans, Louisiana, United States",49,16,33,0,0,0,0,0,0,0,2,401,29.9510658,-90.0715323,0.978723404,0.863636364,80,105,219,-13
+21,New York Giants,"Newark, New York, United States",44,13,30,0,0,0,1,0,0,0,0,380,43.0467301,-77.0952516,1,0.923076923,101,105,52,-2
+22,New York Jets,"Norwalk, New York, United States",27,11,16,0,0,0,0,0,0,0,1,283,41.117744,-73.4081575,1,0.820512821,109,91,-152,-11
+23,Oakland Raiders,"Oakland, San Francisco, United States",28,4,22,0,0,0,1,0,1,0,0,253,37.8043637,-122.2711137,1,0.863636364,116,116,2,-15
+24,Philadelphia Eagles,"Philadelphia, Pennsylvania, United States",54,16,27,2,2,2,2,0,3,0,0,474,39.9525839,-75.1652215,1,0.888888889,115,121,94,-8
+25,Pittsburgh Steelers,"Pittsburgh, Pennsylvania, United States",49,10,33,0,1,4,1,0,0,0,1,436,40.4406248,-79.9958864,1,0.90625,103,97,1,0
+26,San Diego Chargers,"San Diego, California, United States",40,6,31,0,0,0,3,0,0,0,1,348,32.715738,-117.1610838,1,0.846153846,111,129,105,-5
+27,San Francisco 49ers,"Santa Clara, California, United States",33,10,20,0,0,2,1,0,0,0,0,306,37.3541079,-121.9552356,1,0.806451613,116,122,-28,7
+28,Seattle Seahawks,"Seattle, Washington, United States",43,20,20,0,0,2,0,0,1,0,1,394,47.6062095,-122.3320708,1,0.837837838,130,70,-396,10
+29,St. Louis Rams,"St. Louis, Missouri, United States",36,11,20,0,2,3,0,0,0,0,0,324,38.6270025,-90.1994042,0.971428571,0.8,123,105,-257,-2
+30,Tampa Bay Buccaneers,"Tampa Bay, Florida, United States",31,7,21,0,0,3,0,0,0,0,0,277,27.7495159,-82.5834947,1,0.833333333,118,106,-4,-8
+31,Tennessee Titans,"Tennessee, United States",28,6,20,0,0,1,1,0,0,0,1,254,35.5174913,-86.5804473,1,0.863636364,111,93,-230,-10
+32,Washington Redskins,"Washington, United States",33,15,18,0,0,0,0,0,0,0,0,301,38.9071923,-77.0368707,0.96875,0.888888889,120,144,34,-12
